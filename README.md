@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Falguni Solanki</h1>
 <h3 align="center">A passionate Junior QA Engineer from India</h3>
 
-<img align="right"alt="coding"Width="400"src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falguni0201&label=Profile%20views&color=0e75b6&style=flat" alt="falguni0201" /> </p>
 
 - 🔭 I’m currently working on **Arishti Info Labs Pvt.Ltd**
